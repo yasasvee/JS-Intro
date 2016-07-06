@@ -1,8 +1,5 @@
 function arrayToLIst(arr){
-	var  list =null
-	for (var iter = arr.length-1; iter >=0; iter--){
-		list = {value: arr[iter], rest: list};
-	}
+
 	return list;
 }
 
