@@ -1,0 +1,21 @@
+{
+    "p2kwiet180672937032_btnAsync2_onClick_seq0": {
+        "id": "p2kwiet180672937032_btnAsync2_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_9074718067293703506",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "asyncServiceCall",
+            "display": "asyncServiceCall",
+            "inputparams": [{
+                "name": "invokeTwice",
+                "value": "\"true\""
+            }]
+        }]
+    }
+}

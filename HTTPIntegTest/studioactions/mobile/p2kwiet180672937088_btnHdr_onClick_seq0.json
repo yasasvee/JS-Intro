@@ -1,0 +1,17 @@
+{
+    "p2kwiet180672937088_btnHdr_onClick_seq0": {
+        "id": "p2kwiet180672937088_btnHdr_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_782118067293706023",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setHdr",
+            "display": "setHdr"
+        }]
+    }
+}

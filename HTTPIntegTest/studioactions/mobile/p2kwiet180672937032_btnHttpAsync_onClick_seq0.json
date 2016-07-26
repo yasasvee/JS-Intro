@@ -1,0 +1,24 @@
+{
+    "p2kwiet180672937032_btnHttpAsync_onClick_seq0": {
+        "id": "p2kwiet180672937032_btnHttpAsync_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6412618067293708144",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "httpRequestSend",
+            "display": "httpRequestSend",
+            "inputparams": [{
+                "name": "isAsync",
+                "value": "\"true\""
+            }, {
+                "name": "invokeTwice",
+                "value": "\"false\""
+            }]
+        }]
+    }
+}

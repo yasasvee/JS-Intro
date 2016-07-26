@@ -1,0 +1,17 @@
+{
+    "p2kwiet180672937032_button186678331555733_onClick_seq0": {
+        "id": "p2kwiet180672937032_button186678331555733_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_5613318067293707644",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setHTTPMethodPost",
+            "display": "setHTTPMethodPost"
+        }]
+    }
+}

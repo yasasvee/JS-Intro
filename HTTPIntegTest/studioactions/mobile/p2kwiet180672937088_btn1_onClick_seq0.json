@@ -1,0 +1,17 @@
+{
+    "p2kwiet180672937088_btn1_onClick_seq0": {
+        "id": "p2kwiet180672937088_btn1_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_6256418067293709543",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addDomain",
+            "display": "addDomain"
+        }]
+    }
+}

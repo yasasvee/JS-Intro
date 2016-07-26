@@ -1,0 +1,17 @@
+{
+    "p2kwiet180672937032_btnRemoveKey_onClick_seq0": {
+        "id": "p2kwiet180672937032_btnRemoveKey_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_4530618067293708331",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeKeyVal",
+            "display": "removeKeyVal"
+        }]
+    }
+}
